@@ -1,2 +1,4 @@
 # hello-world
-Just a starting repository
+
+Hello People, 
+I am writing this "edit" to observe and learn about github *(#ignore)*
